@@ -1,6 +1,6 @@
 {
-  "name": "dir-to-json",
-  "version": "0.0.3",
+  "name": "@idomusha/dir-to-json",
+  "version": "0.0.4",
   "description": "Asynchronously convert directory tree structure into a javascript object.",
   "keywords": [
     "directory",
@@ -36,7 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/traviswimer/dir-to-json"
+    "url": "https://github.com/idomusha/dir-to-json"
   },
   "license": "MIT"
 }
